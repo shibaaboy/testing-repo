@@ -1,0 +1,15 @@
+{
+  "name": "git-ru",
+  "version": "1.0.0",
+  "description": "README for test v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitverse.ru/sc/alexShibanov/test.git"
+  },
+  "author": "Alexey Shibanov",
+  "license": "ISC"
+}
