@@ -11,6 +11,10 @@ npm install keka
 npm install keka
 ```
 
+```
+npm install keka
+```
+
 `
 npm install keka
 `
