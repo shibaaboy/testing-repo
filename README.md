@@ -4,21 +4,13 @@ README for test
 
 
 ``` bash
-npm install keka
+npm install bash
 ```
 
 ``` go
-npm install keka
+npm install go
 ```
 
 ```
-npm install keka
+npm install empty
 ```
-
-`
-npm install keka
-`
-
-``
-npm install keka
-``
